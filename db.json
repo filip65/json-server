@@ -33,7 +33,6 @@
         "id": "2",
         "name": "Vlado Krivy",
         "photo": "https://thumbs.dreamstime.com/z/man-wearing-face-mask-19004588.jpg",
-        "distance": "108 meters away",
         "distance": "123 meters away",
         "rating": "4.8"
       },
@@ -53,47 +52,46 @@
   ],
   "vouchers": [
     {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
+      "name": "DISCOUNT",
+      "value": "20 %",
       "image": "https://media.discordapp.net/attachments/1029454636597399683/1048816233295912980/image.png",
-      "backgroundColor": "red",
+      "backgroundColor": "#E64F4F",
       "price": 200
     },
     {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
+      "name": "VOUCHER",
+      "value": "10 EUR",
       "image": "https://media.discordapp.net/attachments/1029454636597399683/1048770190189547620/NewChicago-Logo-male.png?width=2268&height=931",
-      "backgroundColor": "red",
+      "backgroundColor": "#D3B61A",
       "price": 200
     },
     {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048770764926623824/Mcd-05.jpg",
-      "backgroundColor": "red",
+      "name": "DISCOUNT",
+      "value": "30 %",
+      "image": "https://images-ext-1.discordapp.net/external/hKBRCl-moLWqrbdxqQ2oQquO545AOJ33_jeT5Em6fpE/http/www.martinus.sk/data/press/martinus_width_positive.jpg",
+      "backgroundColor": "#E64F4F",
       "price": 100
     },
     {
       "name": "FREE PARKING",
-      "value": "2 HOURS",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048771171958657045/geronimo_denne_menu_grill.jpg",
-      "backgroundColor": "red",
+      "value": "1 HOUR",
+      "image": "https://cdn.discordapp.com/attachments/1029454636597399683/1048823729116946472/Method_Draw_Image.png",
+      "backgroundColor": "#3083DC",
       "price": 150
     },
     {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
+      "name": "VOUCHER",
+      "value": "1 JUMP ARENA PASS",
       "image": "https://media.discordapp.net/attachments/1029454636597399683/1048772110601949224/SF_logo.png",
-      "backgroundColor": "red",
+      "backgroundColor": "#D3B61A",
       "price": 100
     },
     {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
+      "name": "VOUCHER",
+      "value": "2 FREE TICKETS",
       "image": "https://media.discordapp.net/attachments/1029454636597399683/1048772251790606486/node_5df6500a156f723d2b1af069a78c41fe.png",
-      "backgroundColor": "red",
+      "backgroundColor": "#D3B61A",
       "price": 150
     }
   ]
-
 }
