@@ -60,8 +60,8 @@
     },
     {
       "name": "VOUCHER",
-      "value": "10 EUR",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048770190189547620/NewChicago-Logo-male.png?width=2268&height=931",
+      "value": "1 FREE TICKET",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/LOGO-kollarovci-podf-1.png",
       "backgroundColor": "#D3B61A",
       "price": 200
     },
