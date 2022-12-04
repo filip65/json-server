@@ -1,97 +1,76 @@
 {
   "markers": [
     {
-      "id": "2",
-      "lat": "48.701515",
-      "lon": "21.233395",
+      "lat": 48.711398352253,
+      "lon": 21.250506877202973,
       "user": {
-        "id": "1",
-        "name": "Filip Katusin",
-        "email": "filip.katusin@gmail,com",
-        "photo": "https://thumbs.dreamstime.com/z/very-old-woman-face-10578268.jpg",
-        "distance": "65 meters away",
-        "rating": "4"
+        "name": "Filip Katušin",
+        "email": "filip.katusin@gmail.com",
+        "photo": "https://ucmscdn.healthgrades.com/59/0d/a51815df1cc7256e1c0d40c00414/hg-man-holding-face-732x549-thumbnail.jpg",
+        "distance": "74 meters away"
       },
-      "duration": "13min",
-      "distance": "6,5km",
-      "co2": "802,1 g",
+      "rating": 4,
+      "duration": "8min",
+      "distance": "15km",
+      "co2": "1059 g",
       "schedule": {
         "monday": "6:00 - 6:15",
         "tuesday": "6:00 - 6:15",
-        "wednesday": null,
+        "wednesday": "6:00 - 6:15",
         "thursday": "6:00 - 6:15",
         "friday": "6:00 - 6:15",
         "saturday": null,
         "sunday": null
-      }
+      },
+      "id": 1
     },
     {
-      "id": "3",
-      "lat": "48.791515",
-      "lon": "21.293395",
+      "lat": 48.6731840445646,
+      "lon": 21.39631310035704,
       "user": {
-        "id": "2",
-        "name": "Vlado Krivy",
-        "photo": "https://thumbs.dreamstime.com/z/man-wearing-face-mask-19004588.jpg",
-        "distance": "123 meters away",
-        "rating": "4.8"
+        "name": "Vladimir Hric",
+        "email": "vladimir69.hric@gmail.com",
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faceapp.com%2F&psig=AOvVaw0sph0oHlCLLtPsjCvZL_O7&ust=1670234553839000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjOq9za3_sCFQAAAAAdAAAAABAE",
+        "distance": "28 meters away"
       },
-      "duration": "21min",
-      "distance": "10,5km",
-      "co2": "1255 g",
+      "rating": 3,
+      "duration": "9min",
+      "distance": "7km",
+      "co2": "1777 g",
       "schedule": {
-        "monday": "7:00 - 7:20",
-        "tuesday": "7:00 - 7:20",
-        "wednesday": "7:00 - 7:20",
-        "thursday": "7:00 - 7:20",
-        "friday": "7:00 - 7:20",
+        "monday": "6:00 - 6:15",
+        "tuesday": "6:00 - 6:15",
+        "wednesday": "6:00 - 6:15",
+        "thursday": "6:00 - 6:15",
+        "friday": "6:00 - 6:15",
         "saturday": null,
         "sunday": null
-      }
-    }
-  ],
-  "vouchers": [
-    {
-      "name": "DISCOUNT",
-      "value": "20 %",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048816233295912980/image.png",
-      "backgroundColor": "#E64F4F",
-      "price": 200
+      },
+      "id": 2
     },
     {
-      "name": "VOUCHER",
-      "value": "1 FREE TICKET",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/LOGO-kollarovci-podf-1.png",
-      "backgroundColor": "#D3B61A",
-      "price": 200
-    },
-    {
-      "name": "DISCOUNT",
-      "value": "30 %",
-      "image": "https://images-ext-1.discordapp.net/external/hKBRCl-moLWqrbdxqQ2oQquO545AOJ33_jeT5Em6fpE/http/www.martinus.sk/data/press/martinus_width_positive.jpg",
-      "backgroundColor": "#E64F4F",
-      "price": 100
-    },
-    {
-      "name": "FREE PARKING",
-      "value": "1 HOUR",
-      "image": "https://cdn.discordapp.com/attachments/1029454636597399683/1048823729116946472/Method_Draw_Image.png",
-      "backgroundColor": "#3083DC",
-      "price": 150
-    },
-    {
-      "name": "VOUCHER",
-      "value": "1 JUMP ARENA PASS",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048772110601949224/SF_logo.png",
-      "backgroundColor": "#D3B61A",
-      "price": 100
-    },
-    {
-      "name": "VOUCHER",
-      "value": "2 FREE TICKETS",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048772251790606486/node_5df6500a156f723d2b1af069a78c41fe.png",
-      "backgroundColor": "#D3B61A",
-      "price": 150
+      "lat": 48.65670914226348,
+      "lon": 21.231207042236313,
+      "user": {
+        "name": "Lúlia Hubková",
+        "email": "jan.hubka@gmail.com",
+        "photo": "https://img.freepik.com/free-photo/sensual-glamour-portrait-beautiful-woman-model-lady-with-fresh-daily-makeup-with-red-lips-color-clean-healthy-skin-face_158538-9203.jpg?w=2000 ",
+        "distance": "73 meters away"
+      },
+      "rating": 3,
+      "duration": "11min",
+      "distance": "18km",
+      "co2": "1742 g",
+      "schedule": {
+        "monday": "6:00 - 6:15",
+        "tuesday": "6:00 - 6:15",
+        "wednesday": "6:00 - 6:15",
+        "thursday": "6:00 - 6:15",
+        "friday": "6:00 - 6:15",
+        "saturday": null,
+        "sunday": null
+      },
+      "id": 3
     }
   ]
 }

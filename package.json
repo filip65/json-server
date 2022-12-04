@@ -4,7 +4,8 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "server": "json-server --watch db.json -p 3500"
   },
   "dependencies": {
     "json-server": "^0.17.0"
