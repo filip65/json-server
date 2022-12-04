@@ -7,7 +7,8 @@
         "name": "Filip Katušin",
         "email": "filip.katusin@gmail.com",
         "photo": "https://ucmscdn.healthgrades.com/59/0d/a51815df1cc7256e1c0d40c00414/hg-man-holding-face-732x549-thumbnail.jpg",
-        "distance": "74 meters away"
+        "distance": "74 meters away",
+        "rating": 4
       },
       "rating": 4,
       "duration": "8min",
@@ -30,8 +31,9 @@
       "user": {
         "name": "Vladimir Hric",
         "email": "vladimir69.hric@gmail.com",
-        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faceapp.com%2F&psig=AOvVaw0sph0oHlCLLtPsjCvZL_O7&ust=1670234553839000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjOq9za3_sCFQAAAAAdAAAAABAE",
-        "distance": "28 meters away"
+        "photo": "https://www.ajlawpractice.com/wp-content/uploads/2021/06/gPZwCbdS.jpg",
+        "distance": "28 meters away",
+        "rating": 4.3
       },
       "rating": 3,
       "duration": "9min",
@@ -53,9 +55,10 @@
       "lon": 21.231207042236313,
       "user": {
         "name": "Lúlia Hubková",
-        "email": "jan.hubka@gmail.com",
-        "photo": "https://img.freepik.com/free-photo/sensual-glamour-portrait-beautiful-woman-model-lady-with-fresh-daily-makeup-with-red-lips-color-clean-healthy-skin-face_158538-9203.jpg?w=2000 ",
-        "distance": "73 meters away"
+        "email": "julia.hubkova@gmail.com",
+        "photo": "https://static.generated.photos/vue-static/face-generator/landing/wall/17.jpg",
+        "distance": "73 meters away",
+        "rating": 3.8
       },
       "rating": 3,
       "duration": "11min",
