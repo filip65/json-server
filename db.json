@@ -33,16 +33,22 @@
         "id": "2",
         "name": "Vlado Krivy",
         "photo": "https://thumbs.dreamstime.com/z/man-wearing-face-mask-19004588.jpg",
-        "distance": "108 meters away"
+        "distance": "108 meters away",
+        "distance": "123 meters away",
+        "rating": "4.8"
+      },
+      "duration": "21min",
+      "distance": "10,5km",
+      "co2": "1255 g",
+      "schedule": {
+        "monday": "7:00 - 7:20",
+        "tuesday": "7:00 - 7:20",
+        "wednesday": "7:00 - 7:20",
+        "thursday": "7:00 - 7:20",
+        "friday": "7:00 - 7:20",
+        "saturday": null,
+        "sunday": null
       }
-    }
-  ],
-  "vouchers": [
-    {
-      "name": "FREE PARKING",
-      "value": "2 HOURS",
-      "image": "https://media.discordapp.net/attachments/1029454636597399683/1048769750420959282/CSC-Logo-Schrift-wei-gruen-2022-1-400x116.png",
-      "backgroundColor": ""
     }
   ]
 
