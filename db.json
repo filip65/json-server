@@ -16,13 +16,13 @@
       "distance": "6,5km",
       "co2": "802,1 g",
       "schedule": {
-        "mon": "6:00 - 6:15",
-        "thu": "6:00 - 6:15",
-        "wed": null,
-        "thur": "6:00 - 6:15",
-        "fri": "6:00 - 6:15",
-        "sat": null,
-        "sun": null
+        "monday": "6:00 - 6:15",
+        "tuesday": "6:00 - 6:15",
+        "wednesday": null,
+        "thursday": "6:00 - 6:15",
+        "friday": "6:00 - 6:15",
+        "saturday": null,
+        "sunday": null
       }
     },
     {
