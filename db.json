@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "markers": [
+    {
+      "id": "2",
+      "lat": "48.701515",
+      "lon": "21.233395",
+      "user": {
+        "id": "1",
+        "name": "Filip Katusin",
+        "photo": "https://thumbs.dreamstime.com/z/very-old-woman-face-10578268.jpg",
+        "distance": "65 meters away"
+      }
+    },
+    {
+      "id": "3",
+      "lat": "48.791515",
+      "lon": "21.293395",
+      "user": {
+        "id": "2",
+        "name": "Vlado Krivy",
+        "photo": "https://thumbs.dreamstime.com/z/man-wearing-face-mask-19004588.jpg",
+        "distance": "108 meters away"
+      }
+    }
+  ]
 }
