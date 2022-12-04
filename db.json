@@ -9,7 +9,8 @@
         "name": "Filip Katusin",
         "email": "filip.katusin@gmail,com",
         "photo": "https://thumbs.dreamstime.com/z/very-old-woman-face-10578268.jpg",
-        "distance": "65 meters away"
+        "distance": "65 meters away",
+        "rating": "4"
       },
       "duration": "13min",
       "distance": "6,5km",
@@ -23,14 +24,6 @@
         "sat": null,
         "sun": null
       },
-      "data": {
-        "driver": {
-          "name": "Marek Certovsky",
-          "email": "marek.certovsky@gmail.com",
-          "rating": "4"
-        }
-
-      }
     },
     {
       "id": "3",
